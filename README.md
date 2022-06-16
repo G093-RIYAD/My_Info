@@ -1,6 +1,6 @@
 -  ### 👋 Hi, I’m (Md. Nobiul Haque Riyad)
-- 🌱 I’m currently learning Python IT Automation
-- 👯 I’m looking to collaborate on python
+- 🌱 I’m currently learning C #Structured programming 
+- 👯 I’m looking to collaborate on IT Sector
 - 👀 I’m interested in Software Application Developer
 - 📫 How to reach me: ##linkedin : https://www.linkedin.com/in/md-nobiul-haque-riyad-52a215233/
 <!--
